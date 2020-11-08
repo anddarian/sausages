@@ -1,0 +1,5 @@
+russian = input()
+english = input()
+d = dict()
+d[russian] = english
+print(d)
