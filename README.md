@@ -7,5 +7,5 @@
 
 > isn't it cute?
 ----
-#### well? actually i didn't know what code to describe so i decided to write these things:)
+#### well, actually i didn't know what code to describe so i decided to write these things:)
 hope you enjoyed it
